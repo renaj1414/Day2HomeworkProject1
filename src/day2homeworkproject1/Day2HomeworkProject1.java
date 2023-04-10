@@ -5,4 +5,8 @@ public class Day2HomeworkProject1 {
 	 
 	 System.out.println("Day 2 Homework Project 1");
  }
+ 
+ public void  getInfo() {
+	 
+ }
 }
