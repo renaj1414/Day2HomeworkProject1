@@ -9,6 +9,8 @@ public class Day2HomeworkProject1 {
  public void  getInfo() {
 	 
  }
+public void getInfoAgain2(int a, int b){
+	System.out.println(a * b);
 }
 
 /** This is coming from another team member
